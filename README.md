@@ -30,7 +30,7 @@ Long-time web engineer; attempting to pivot into software. Sometimes I write on 
 | ---- | ------ |
 | GitHub | [@Vyygir](https://github.com/Vyygir) |
 | VCS Alt. | _Pending_ |
-| Email | open[dot]source[at]vyygir[me] |
+| Email | open[dot]source[at]vyygir[dot]me |
 | Bluesky | [Vyygir](https://bsky.app/profile/vyygir.bsky.social) |
 | Twitch | [Vyygir](https://twitch.tv/Vyygir) |
 
