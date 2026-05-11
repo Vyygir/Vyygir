@@ -14,6 +14,7 @@ Long-time web engineer; attempting to pivot into software. Sometimes I write on 
 [![Void Linux](https://img.shields.io/badge/Void_Linux-%23478061.svg?style=badge&logo=voidlinux&logoColor=white)](https://voidlinux.org)
 [![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF?style=badge&logo=hyprland&logoColor=black)](https://hypr.land)
 [![Helix](https://img.shields.io/badge/Helix-%23281733.svg?style=badge&logo=helix&logoColor=white)](https://helix-editor.com)
+[![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=badge&logo=firefoxbrowser&logoColor=white)](https://www.firefox.com)
 
 #### ⌨️ Languages
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=badge&logo=php&logoColor=white)](https://www.php.net)
