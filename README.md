@@ -2,7 +2,7 @@
 Long-time web engineer; attempting to pivot into software. Sometimes I write on [Starless](https://starle.sh).
 
 >[!NOTE]
->I'm trying to transition away from GitHub for my personal projects, so look towards [my forge](https://forge.vyygir.dev) instead.
+>I'm trying to transition away from GitHub for my personal projects, so look towards [my forge](https://forge.vyygir.dev/Vyygir) instead.
 
 -----
 
