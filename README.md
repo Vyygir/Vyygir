@@ -1,6 +1,9 @@
 ### Vyygir &mdash; _/vaɪɡɪr/_
 Long-time web engineer; attempting to pivot into software. Sometimes I write on [Starless](https://starle.sh).
 
+>[!NOTE]
+>I'm trying to transition away from GitHub for my personal projects, so look towards [my forge](https://forge.vyygir.dev) instead.
+
 -----
 
 #### 🛠️ Hardware
@@ -13,7 +16,7 @@ Long-time web engineer; attempting to pivot into software. Sometimes I write on 
 #### 💻 Software
 [![Void Linux](https://img.shields.io/badge/Void_Linux-%23478061.svg?style=badge&logo=voidlinux&logoColor=white)](https://voidlinux.org)
 [![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF?style=badge&logo=hyprland&logoColor=black)](https://hypr.land)
-[![Helix](https://img.shields.io/badge/Helix-%23281733.svg?style=badge&logo=helix&logoColor=white)](https://helix-editor.com)
+[![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=badge&logo=firefoxbrowser&logoColor=white)](https://www.firefox.com)
 
 #### ⌨️ Languages
